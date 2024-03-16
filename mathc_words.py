@@ -139,7 +139,7 @@ nombre_devuelto = input("Ingrese el nombre de la propiedad nombre: ").lower()
 nombres = [elemento["nombre"] for elemento in data]
 
 # Encontrar la coincidencia más cercana al nombre devuelto
-coincidencias = get_close_matches(nombre_devuelto, nombres, n=1, cutoff=0.3)
+coincidencias = get_close_matches(nombre_devuelto, nombres, n = 2, cutoff = 0.3)
 
 if coincidencias:
     nombre_coincidencia = coincidencias[0]
