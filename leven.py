@@ -17,4 +17,4 @@ def levenshtein_distance(a, b):
     return previous_row[-1]
 
 # Prueba tu función
-print(levenshtein_distance("Ojo de Agua", "Hacienda  Ojo de agua")) # 1
+print(levenshtein_distance("Ojo de Agua", "Hacienda     Ojo de agua")) # 1
