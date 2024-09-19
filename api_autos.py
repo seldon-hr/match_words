@@ -15,12 +15,18 @@ payloadGenLink = {
 payloadCancelLink = {
     "wptoken": "40890150a93a3b0591e0eaec652ad477",
     "m": "cancellink",
+    "poliza": "2170054034",    
+}
+
+payloadSMSLink = {
+    "wptoken": "40890150a93a3b0591e0eaec652ad477",
+    "m": "genSmsLink",
     "poliza": "2170054034",
-    "tel": "7722294170"    
+    "tel": "7722294170",
 }
 
 # response = requests.post(url, json=payloadGenLink)
-response = requests.post(url, json=payloadCancelLink)
+response = requests.post(url, json=payloadSMSLink)
 
 print("Código de estado:", response.status_code)
 print("Respuesta:")
