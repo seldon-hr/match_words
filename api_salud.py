@@ -16,7 +16,12 @@ payload = {
     "domi": "0",
 }
 
-response = requests.post(GEN_LINK_URL, json=payload)
+params = {
+        "username": USERNAME,
+        "password": PASSWORD
+    }
+
+response = requests.post(GEN_LINK_URL, json=payload, params=params)
 
 print("Código de estado:", response.status_code)
 print("Respuesta:")
