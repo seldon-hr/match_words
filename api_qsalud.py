@@ -30,14 +30,14 @@ def login():
 
 # token, poliza, email, telefono, domi
 def gen_link():
-    # headers = {
-    #     "Authorization": f"Bearer {token}",
-    #     "Content-Type": "application/json"
-    # }
+     headers = {
+         "Authorization": f"Bearer {token}",
+         "Content-Type": "application/json"
+    }
     payload = {
         "poliza": "370000197301",
         "email": "daanmaro99june@gmail.com",
-        # "telefono": telefono,
+         "telefono": telefono,
         "domi": "0"
     }
     print(payload)
