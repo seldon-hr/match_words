@@ -1,0 +1,1 @@
+print("Twinkle, twinkle, little star,\n\t How I wonder waht you are!\n\t\t Up above the world so hight,\n Like a dimond in the sky. \nTwinkle, twinkle, little star,")
