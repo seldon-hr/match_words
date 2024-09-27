@@ -25,8 +25,9 @@ payloadSMSLink = {
     "tel": "7722294170",
 }
 
-# response = requests.post(url, json=payloadGenLink)
-response = requests.post(url, json=payloadSMSLink)
+responseWSP = requests.post(url, json=payloadGenLink)
+responseSMS = requests.post(url, json=payloadSMSLink)
+responseCancel = requests.post(url, json=payloadCancelLink) 
 
 print("Código de estado:", response.status_code)
 print("Respuesta:")
