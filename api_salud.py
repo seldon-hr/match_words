@@ -25,5 +25,5 @@ response = requests.post(GEN_LINK_URL, json=payload, params=params)
 
 print("Código de estado:", response.status_code)
 print("Respuesta:")
-# print(json.dumps(response.json(), indent=2, ensure_ascii=False))
+print(json.dumps(response.json(), indent=2, ensure_ascii=False))
 print(response)
