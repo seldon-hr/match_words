@@ -1,0 +1,99 @@
+<Movimientos>
+<Movimiento AnioRenovacion="" NoCotizacion="" NoEndoso="" NoNegocio="0003" NoOTra="" NoPoliza="" Solicitud="" SubRamo="37" TipoEndoso="" TipoMovimiento="2" Usuario="10-MAESTRA">
+<DatosGenerales>
+<FechaEmision>19/06/2025</FechaEmision>
+<FechaInicio>19/06/2025</FechaInicio>
+<FechaTermino>19/06/2026</FechaTermino>
+<Moneda>00</Moneda>
+<Agente>02022</Agente>
+<FormaPago>M</FormaPago>
+<CodigoOficina>10</CodigoOficina>
+<CPIVA>01900</CPIVA>
+<CodigoProducto>303700052411</CodigoProducto>
+<PeriodoGracia>30</PeriodoGracia>
+</DatosGenerales>
+<Asegurados>
+<Asegurado Certificado="1" NoAsegurado="" NoInciso="1" NoSubGrupoAseg="" Parentesco="1" TipoAsegurado="T">
+<DatosAsegurado>
+<NombreAsegurado>ERIK</NombreAsegurado>
+<ApellidoPatAsegurado>CASTRO</ApellidoPatAsegurado>
+<ApellidoMatAsegurado>SANCHEZ</ApellidoMatAsegurado>
+<Genero>H</Genero>
+<FechaNacimiento>07/09/1995</FechaNacimiento>
+</DatosAsegurado>
+<Coberturas>
+<Cobertura MarcaAmparada="S" NoCobertura="0011">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0011">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0013">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0014">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0015">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0016">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0012">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0012">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0012">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0012">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0012">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0019">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0021">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0022">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0024">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0025">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0027">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0028">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0030">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0031">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0032">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0037">
+<ConceptoCB/>
+</Cobertura>
+<Cobertura MarcaAmparada="S" NoCobertura="0039">
+<ConceptoCB/>
+</Cobertura>
+</Coberturas>
+</Asegurado>
+</Asegurados>
+<CodigoError/>
+</Movimiento>
+</Movimientos>
